@@ -1,6 +1,3 @@
-try #4
-pull test
-push test
+try #6
 
-conflict
-conflict t5
+abcd
