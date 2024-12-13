@@ -1,3 +1,0 @@
-reset
-conflict test repo
-conflict clone repo
