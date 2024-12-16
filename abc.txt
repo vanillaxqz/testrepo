@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-pull test something
-line non conflict
-=======
-pull test something 123
->>>>>>> 01a83d64821ec491c88ba87f09930e90781aa6a5
+new pull
