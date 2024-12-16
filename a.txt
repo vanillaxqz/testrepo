@@ -1,3 +1,0 @@
-a.txt
-conflictclone
-conflict testrepo this will be final
